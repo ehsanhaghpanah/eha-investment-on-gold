@@ -174,3 +174,5 @@ temp/
 
 # MS Office Temporary Files
 ~$*.*
+
+*.pdb
