@@ -176,3 +176,5 @@ temp/
 ~$*.*
 
 *.pdb
+
+sources/gold-bar/packages
